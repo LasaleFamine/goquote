@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/lasalefamine/goquote"
+    "github.com/lasalefamine/goquote/app"
     "log"
 )
 
